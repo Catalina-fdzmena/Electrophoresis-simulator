@@ -1,5 +1,5 @@
-% Andrea Catalina Fernández Mena A01197705    Programador 
-% Thomas Freund Paternostro A00831997   Porgramador 
+% Andrea Catalina Fernández Mena A01197705    Programadora
+% Thomas Freund Paternostro A00831997   Programador 
 % Carlos Guardiola A01383966   Encargado parte física y mecanica
 % William Frank Monroy Mamani A00829796  Programador auxiliar
 % Cedric Diego Ortega Jiménez A01025012  Encargado parte física y mecanica
